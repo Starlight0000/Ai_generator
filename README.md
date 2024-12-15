@@ -30,15 +30,17 @@ Make sure to install the following dependencies:
          cd <repository-directory>
       ```
 
-2. ** Install dependencies**
+2. **Install dependencies**
 
-     ```pip install -r requirements.txt```
+     ```pip install -r requirements.txt
+         ```
 
-3. **Run the application**
+4. **Run the application**
 
-      ```python -m streamlit run app.py```
+      ```python -m streamlit run app.py
+         ```
 
-4. **Using the App**
+6. **Using the App**
 
       Login: Enter your User ID to log in.
       Content Generation: Once logged in, input a motivational prompt to generate the AI content (video and image).
