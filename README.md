@@ -56,7 +56,9 @@ Make sure to install the following dependencies:
 │   ├── utils.py           # Utility functions like generate_and_store
 ├── static/
 │   └── uploads/           # Directory for storing user-uploaded/generated videos and images
-├── main.py                 # Main Streamlit app file
+├── content.db             # Database 
+├── main.py                # Main Streamlit app file
+├── mysql.sql              # Database creation using queries               
 ├── requirements.txt       # List of dependencies for the project
 └── README.md              # This file
 ```
