@@ -32,13 +32,11 @@ Make sure to install the following dependencies:
 
 2. **Install dependencies**
 
-     ```pip install -r requirements.txt
-         ```
+     ``` pip install -r requirements.txt ```
 
 4. **Run the application**
 
-      ```python -m streamlit run app.py
-         ```
+      ``` python -m streamlit run app.py ```
 
 6. **Using the App**
 
