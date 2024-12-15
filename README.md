@@ -27,15 +27,15 @@ Make sure to install the following dependencies:
 1. **Clone the repository**
 
       git clone <repository-url>
-      cd <repository-directory>
+      cd <repository-directory> ```
 
 2. **Install dependencies**
 
-      pip install -r requirements.txt 
+      pip install -r requirements.txt ``` 
 
 4. **Run the application**
 
-      python -m streamlit run app.py 
+      python -m streamlit run app.py ```
 
 6. **Using the App**
 
