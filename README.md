@@ -28,7 +28,7 @@ Make sure to install the following dependencies:
 
       ```
       git clone <repository-url>
-      cd <repository-directory> ```
+      cd <repository-directory> 
 
 2. **Install dependencies**
 
