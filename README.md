@@ -22,35 +22,33 @@ Make sure to install the following dependencies:
    ```bash```
 3. pip install streamlit pandas sqlalchemy
 
-----------------------------------------------------------------------------------------------------------------------------------------------
-
 ## Setup 
 
 1. **Clone the repository**
 
-```git clone <repository-url>
-cd <repository-directory>
-```
+      ```git clone <repository-url>
+         cd <repository-directory>
+      ```
 
 2. ** Install dependencies**
 
-  ```pip install -r requirements.txt```
+     ```pip install -r requirements.txt```
 
 3. **Run the application**
 
-   ```python -m streamlit run app.py```
+      ```python -m streamlit run app.py```
 
 4. **Using the App**
 
-    Login: Enter your User ID to log in.
-    Content Generation: Once logged in, input a motivational prompt to generate the AI content (video and image).
-    View Content: After content generation, you can view the generated video and image. You can also see a history of your previously generated           content in a tabular format by clicking the "View Previous Content" button.
+      Login: Enter your User ID to log in.
+      Content Generation: Once logged in, input a motivational prompt to generate the AI content (video and image).
+      View Content: After content generation, you can view the generated video and image. You can also see a history of your previously generated           content in a tabular format by clicking the "View Previous Content" button.
 
 -----------------------------------------------------------------------------------------------------------------------------------------------
 
 ## File Structure 
 
-AI-Content-Generator/
+```AI-Content-Generator/
 ├── app/
 │   ├── __init__.py
 │   ├── database.py        # Contains database models and functions for content generation
@@ -60,7 +58,7 @@ AI-Content-Generator/
 ├── main.py                 # Main Streamlit app file
 ├── requirements.txt       # List of dependencies for the project
 └── README.md              # This file
-
+```
 ------------------------------------------------------------------------------------------------------------------------------------------------
 
 
