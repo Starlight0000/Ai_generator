@@ -26,7 +26,8 @@ Make sure to install the following dependencies:
 
 1. **Clone the repository**
 
-      ```git clone <repository-url>
+      ```
+      git clone <repository-url>
       cd <repository-directory> ```
 
 2. **Install dependencies**
@@ -49,7 +50,6 @@ Make sure to install the following dependencies:
 
 ```AI-Content-Generator/
 ├── app/
-│   ├── __init__.py
 │   ├── database.py        # Contains database models and functions for content generation
 │   ├── utils.py           # Utility functions like generate_and_store
 ├── static/
@@ -60,5 +60,14 @@ Make sure to install the following dependencies:
 ```
 ------------------------------------------------------------------------------------------------------------------------------------------------
 
+##License
+MIT License. See LICENSE.
 
+markdown
+Copy code
+
+### Key Changes:
+- Shortened explanations for key features and setup.
+- Kept necessary instructions for running the app and setting up the database.
+- Simplified file structure and usage instructions.
     
